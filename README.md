@@ -1,8 +1,8 @@
-- validar.php
-1. Completar la sentencia SQL para validar el inicio de sesión de un usuario
+- ***Validar.php:*** 
+*Completar la sentencia SQL para validar el inicio de sesión de un usuario*
 
-- guardar.php
-2. Guardar el nombre de usuario, contraseña y nombre en la tabla de usuarios usando la función EjecutarSQL
+- ***Guardar.php:*** 
+*Guardar el nombre de usuario, contraseña y nombre en la tabla de usuarios usando la función EjecutarSQL*
 
-- funciones.php
-2. Definir la función EjecutarSQL 
+- ***Funciones.php:*** 
+*Definir la función EjecutarSQL* 

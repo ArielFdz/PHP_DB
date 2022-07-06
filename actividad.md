@@ -1,8 +1,8 @@
-validar.php
+- validar.php
 1. Completar la sentencia SQL para validar el inicio de sesión de un usuario
 
-guardar.php
+- guardar.php
 2. Guardar el nombre de usuario, contraseña y nombre en la tabla de usuarios usando la función EjecutarSQL
 
-funciones.php
+- funciones.php
 2. Definir la función EjecutarSQL 
